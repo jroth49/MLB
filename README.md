@@ -51,7 +51,8 @@ Webscraping Baseballreference.com for statistics, Hitting sports books API's to 
 
 
 ###### Project Progression Outline
-  -Collecting Data
+
+ ##### -Collecting Data
   -Being able to read data and calculate percentages
   -Saving information and utilizing it for future calculations
   -Build some models based on stats checkout odds and pricing
@@ -61,7 +62,7 @@ Webscraping Baseballreference.com for statistics, Hitting sports books API's to 
 
 
 ###### Other Notes
-  -Search functionality by Matchup so find past games when these teams faced each other compare their records
+ ##### -Search functionality by Matchup so find past games when these teams faced each other compare their records
   -Big spreadsheet every game every odd every point system stat we come up with base on game and put it into a db to do searches and crunch numbers
   -Season Averages Directory
   -Position Lead
