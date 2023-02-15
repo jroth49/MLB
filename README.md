@@ -1,6 +1,6 @@
 # MLB
 
-This is a work in progress
+*This is a work in progress*
 
 Webscraping Baseballreference.com for statistics, Hitting sports books API's to get odds, implement arbitrage betting and other automated calculations in a spreadsheet.
 
@@ -51,18 +51,16 @@ Webscraping Baseballreference.com for statistics, Hitting sports books API's to 
 
 
 ###### Project Progression Outline
-
-##### -Collecting Data
+  -Collecting Data
   -Being able to read data and calculate percentages
   -Saving information and utilizing it for future calculations
   -Build some models based on stats checkout odds and pricing
   -Test models on Seasons to see what they can predict
   -Evaluate and prep to set up for a starting season
-  -Make it better$$$$
-
+  -Make it better
 
 ###### Other Notes
-##### -Search functionality by Matchup so find past games when these teams faced each other compare their records
+  -Search functionality by Matchup so find past games when these teams faced each other compare their records
   -Big spreadsheet every game every odd every point system stat we come up with base on game and put it into a db to do searches and crunch numbers
   -Season Averages Directory
   -Position Lead
