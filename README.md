@@ -10,14 +10,14 @@ Webscraping Baseballreference.com for statistics, Hitting sports books API's to 
 ## MLB Model Software Outline
 
 ## Brainstorm/Features/Websites
-   ##### Brainstorm
-    Make sports betting models to predict odds based on historical data and current stats
-    Will need to collect historical data and current data
-    Need to compare based on current matchups checking for information pre-first pitch
-    Will need to test with seasons prior
-    Trickiest part will be comparing old data to new data, while keeping new data up to date
-    Potential DB and WebApp And Twitter Picks
-    Create graphs and charts per season to see trends
+###### Brainstorm
+    -Make sports betting models to predict odds based on historical data and current stats
+    -Will need to collect historical data and current data
+    -Need to compare based on current matchups checking for information pre-first pitch
+    -Will need to test with seasons prior
+    -Trickiest part will be comparing old data to new data, while keeping new data up to date
+    -Potential DB and WebApp And Twitter Picks
+    -Create graphs and charts per season to see trends
   Features
     Compare previous player data to current matchup
     Live odds (updating them and line shopping)
