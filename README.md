@@ -4,6 +4,8 @@
 
 Webscraping Baseballreference.com for statistics, Hitting sports books API's to get odds, implement arbitrage betting and other automated calculations in a spreadsheet.
 
+*Files Not released yet, will need your own proxies to scrape Baseballreference.com*
+
 
 
 
