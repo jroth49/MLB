@@ -66,6 +66,6 @@ Other Notes
   Season Averages Directory
   Position Lead
 
-Here's a screenshot of a test spreadsheet I've utilized
+Here's a screenshot of a test spreadsheet:
 ![mlb](https://user-images.githubusercontent.com/52512047/218917221-d0a55f19-0e8f-43ac-8517-dd4f5d431008.png)
 
