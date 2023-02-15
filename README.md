@@ -67,6 +67,6 @@ Webscraping Baseballreference.com for statistics, Hitting sports books API's to 
   -Season Averages Directory
   -Position Lead
 
-Here's a screenshot of a test spreadsheet:
+Here's a screenshot of a test spreadsheet. What I've got so far is scraping baseball references individual games any year all the games. I've combined, calculated, and compared statistics to output the odds outcomes (you can see in the last row). 
 ![mlb](https://user-images.githubusercontent.com/52512047/218917221-d0a55f19-0e8f-43ac-8517-dd4f5d431008.png)
 
