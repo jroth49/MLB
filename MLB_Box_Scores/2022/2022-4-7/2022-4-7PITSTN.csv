@@ -1,0 +1,14 @@
+Home Team,Home Team Record,Visitor Team,Visitor Team RecordFinal Score,Winner,H/V Win,Game Time,Weather Conditions,Home Starting Pitcher,Visitor Starting Pitcher,Winning Pitcher (Team),Losing Pitcher(Team)
+""
+Box Score Headers
+Team1 Box Score
+Team2 BoxScore
+""
+Player Name,AB,R,RBI,BB,SO,PA,BA,OBP,SLG,OPS,PIT,STR,WPA,Details
+""
+Player Name,H,R,ER,BB,SO,HR,ERA,BF,PIT,STR,CTCT,STS,GB,FB,LD,WPA
+""
+Player Name,AB,R,RBI,BB,SO,PA,BA,OBP,SLG,OPS,PIT,STR,WPA,Details
+""
+Player Name,H,R,ER,BB,SO,HR,ERA,BF,PIT,STR,CTCT,STS,GB,FB,LD,WPA
+""
